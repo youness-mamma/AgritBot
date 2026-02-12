@@ -7,6 +7,24 @@ env/
 .env
 .env.*
 
+# Secrets / keys / certificates
+*.key
+*.pem
+*.crt
+*.cer
+*.der
+*.pfx
+*.p12
+*.jks
+*.keystore
+*.csr
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+*.secret
+*.secrets
+
 # Python cache / build
 __pycache__/
 *.py[cod]
@@ -23,3 +41,4 @@ dist/
 # OS files
 .DS_Store
 Thumbs.db
+
