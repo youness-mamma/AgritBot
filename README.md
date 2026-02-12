@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AgriBot
-=======
 <div align="center">
 
 # AgriBot
