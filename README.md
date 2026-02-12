@@ -1,8 +1,6 @@
 <div align="center">
 
 # AgriBot
-<<<<<<< HEAD
-
 **WhatsApp webhook backend for agricultural support, built with FastAPI and Meta WhatsApp Cloud API**
 
 <p>
