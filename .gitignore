@@ -24,6 +24,8 @@ id_ecdsa
 id_ed25519
 *.secret
 *.secrets
+ngrok_recovery_codes.txt
+prod-ca-2021.crt
 
 # Python cache / build
 __pycache__/
